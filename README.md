@@ -1,8 +1,9 @@
-tp n-5
+TP n-5
 
-en este trabjo práctico para aprender Git y GitHub
+En este trabajo práctico para aprender Git y GitHub
 
 tiene commits, ramas y trabajo colaborativo
 
-hola cmabios
+hola cambios
 este el cambio del punto 3
+
