@@ -1,0 +1,7 @@
+node_modules/
+*.env
+Thumbs.db
+.DS_Store
+
+Punto2
+Es fundamental no versionar estos archivos porque incluyen dependencias muy pesadas que se pueden descargar aparte, archivos con datos sensibles y archivos temporales del sistema que no son necesarios para el código. Esto mantiene el repositorio liviano, seguro y evita conflictos entre diferentes sistemas operativos.
